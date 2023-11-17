@@ -1,0 +1,42 @@
+.posts {
+  display: flex;
+  gap: 14px;
+  padding: 22px;
+  border-bottom: 2px solid #ddd;
+}
+.posts:hover{
+    background-color: #ddd;
+}
+.post_img img {
+  width: 70px;
+}
+.txt {
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: normal;
+  gap: 3px;
+  /* font-family: "Raleway", sans-serif !important; */
+  font-size: 15px;
+  line-height: 1.5;
+}
+.posttitile {
+  text-align: start;
+  box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.posttitile h2 {
+  font-weight: 350;
+  font-size: 21px;
+
+  padding: 16px 19px;
+  background: #f1f1f1;
+}
+.txt h4{
+    font-size: 15px;
+    font-weight: 400;
+}
+.txt h5{
+    font-weight: 300;
+    font-size: medium;
+
+}

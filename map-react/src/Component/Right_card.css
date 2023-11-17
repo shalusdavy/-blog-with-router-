@@ -1,0 +1,19 @@
+.card_container{
+    font-weight: 300;
+    font-size: 17px;
+}
+.card_right{
+    /* width:400px; */
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.19);
+    display: grid;
+    gap: 29px;
+   
+    height: fit-content;
+
+  
+}
+.card_right b{
+    padding: 4px 16px;
+    font-size: 21px;
+    font-weight: 500;
+}

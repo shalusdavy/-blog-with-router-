@@ -1,0 +1,24 @@
+.footer_btn {
+  background-color: #616161 !important;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  margin-top: 106px;
+}
+.pri {
+  padding: 12px 24px !important;
+  background-color: #3e3e3e !important;
+  color: #fffaf052;
+  border: none;
+}
+.nxt {
+  padding: 12px 24px !important;
+  color: #fff !important;
+  background-color: #000 !important;
+  border: none;
+}
+.Previous_btn {
+  padding: 25px;
+}
+.nxt:hover {
+  background-color: #ddd;
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "image": "https://images.pexels.com/photos/2166553/pexels-photo-2166553.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "title": "Awesome Destination",
+    "subtitle": "A Journey to Remember",
+    "description": "Discover the beauty and charm of this amazing destination. From stunning landscapes to rich cultural experiences, there's something for every traveler."
+  },
+  {
+    "image": "https://images.pexels.com/photos/2166553/pexels-photo-2166553.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "title": "Paris",
+    "subtitle": "The City of Lights",
+    "description": "Explore the romantic charm of Paris, known for iconic landmarks, art, and culinary delights."
+  },
+  {
+    "image": "https://images.pexels.com/photos/2166553/pexels-photo-2166553.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "title": "Tokyo",
+    "subtitle": "A Blend of Tradition and Modernity",
+    "description": "Experience the unique blend of traditional culture and cutting-edge technology in the vibrant city of Tokyo."
+  },
+  {
+    "id": 1,
+    "image": "\thttps://img.freepik.com/free-photo/full-shot-travel-concept-with-landmarks_23-2149153258.jpg",
+    "tagName": "Beach",
+    "description": "Explore beautiful beaches and enjoy the sun, sand, and sea."
+  }
+]

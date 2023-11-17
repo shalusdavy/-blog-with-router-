@@ -1,0 +1,27 @@
+.lasttag {
+ 
+  box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 52px;
+  width: 400px;
+}
+.tag_headerbg label {
+  background:#f1f1f1;
+  /* padding: 4px 4px; */
+  font-size: 13px;
+  font-weight: 300;
+}
+.lasttag h3{
+  
+  
+    background:#f1f1f1;
+    padding: 15px 21px;
+
+
+}
+.tag_headerbg{
+  padding: 16px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  gap: 13px;
+  text-align: center;
+}
